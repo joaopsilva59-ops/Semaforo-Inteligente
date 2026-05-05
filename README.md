@@ -23,6 +23,7 @@ Execute o programa:
 O semáforo será exibido no terminal em funcionamento contínuo.
 
 Estrutura do repositório
+
 semaforo-inteligente/
 │
 ├── README.md
@@ -33,6 +34,7 @@ semaforo-inteligente/
     └── prints/
 
     main.c (pra acompanhar o README)
+    
     #include <stdio.h>
 #include <unistd.h>
 
