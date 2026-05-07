@@ -1,6 +1,8 @@
-- Nome do projeto: Semafaro-Iteligente
+- Nome do projeto: knowflow-Semafaro-Iteligente
 - 
-- Nome do desenvolvedor: Joõa Pedro Baltazar Silva
+- Nome do desenvolvedor: João Pedro Baltazar Silva
+
+- Curso: Técnico em Desenvolvimento de Sistemas
 - 
 - Objetivo do projeto: Desenvolver um sistema de semáforo inteligente capaz de controlar o fluxo de veículos de forma automatizada, podendo simular tempos de abertura e fechamento com base em regras pré-definidas.
 - 
